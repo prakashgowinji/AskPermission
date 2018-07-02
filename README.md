@@ -1,7 +1,7 @@
 # AskPermission
 
 ### What is AskPermission?
-it is a handy Android library that simplifies the process of getting run time permissions for Adnroid6.0 and above
+it is a handy Android library that simplifies the process of getting run time permissions for Adnroid6.0 and above. 
 The app module shows how to use it in Activity
 
 #### Steps to use:
